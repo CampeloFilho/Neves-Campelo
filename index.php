@@ -9,6 +9,7 @@
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <title>Home - CENC </title>
+      
     </head>
 
     <body>
@@ -20,7 +21,7 @@
             <li><a href="sass.html"><i class="material-icons">search</i></a></li>
             <!--<li><a href="badges.html"><i class="material-icons">view_module</i></a></li>
             <li><a href="collapsible.html"><i class="material-icons">refresh</i></a></li>-->
-            <li><a href="Cadastro.html"><i class="material-icons">account_circle</i></a></li>
+            <li><a href="Cadastro.php"><i class="material-icons">account_circle</i></a></li>
           </ul>
         </div>
       </nav>
@@ -36,7 +37,7 @@
         <div class="container">
           <div class="row">
             <div class="col l6 s12">
-              <h5 class="white-text">CENC</h5>
+              <h5 class="white-text">Centro Educacional Neves Campelo</h5>
               <p class="grey-text text-lighten-4">Rua Capitão João Ferreira Lima 600</p>
             </div>
             <div class="col l4 offset-l2 s12">
@@ -44,8 +45,8 @@
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="#!">Whatsapp: </a></li>
                   <li><a class="grey-text text-lighten-3" href="#!">Telefone: </a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Instagram</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
+                  <li><a class="grey-text text-lighten-3" href="https://www.instagram.com/_cenc/">Instagram</a></li>
+                  <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/Centro-Educacional-Neves-Campelo-306034419423345">Facebook</a></li>
                 </ul>
             </div>
           </div>
