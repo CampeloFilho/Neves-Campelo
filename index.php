@@ -31,7 +31,7 @@
       <div class="parallax-container">
         <div class="parallax"><img src="img/fundo.png"></div>
       </div>
-
+      
   
       <footer class="page-footer blue darken-4">
         <div class="container">
